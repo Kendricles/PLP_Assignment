@@ -1,0 +1,13 @@
+THIS IS THE FIRST LINE.
+HERE IS THE SECOND LINE, WITH MORE WORDS.
+THE THIRD LINE CONTAINS SOME PUNCTUATION!
+FOURTH LINE: TESTING WORD COUNT AND UPPERCASE CONVERSION.
+FINALLY, THE FIFTH LINE ENDS THIS SAMPLE FILE.
+ text is This is the first line.
+Here is the second line, with more words.
+The third line contains some punctuation!
+Fourth line: testing word count and uppercase conversion.
+Finally, the fifth line ends this sample file.
+
+
+Number of words: 35
